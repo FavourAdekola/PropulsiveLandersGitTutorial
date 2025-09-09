@@ -4,5 +4,6 @@ Instructions:
 1) Add your name to the text file with your role in the Propulsive Landers' organization
 2) Add a new line above and below your name
 
+GNC Subteam Lead: Anyi Lin - I like planes
 
 GNC Vice Lead: Favour Adekola
